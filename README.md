@@ -1,1 +1,2 @@
-# programming-hero-assignment-2 this is my second web design with programming-hero.
+# G3 Architects
+live link: https://g3-architects-123.netlify.app/
